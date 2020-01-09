@@ -1,6 +1,6 @@
 # Qeats-crio.do-
-This is the backend of Qeats android app 
-Crio.do is a microexperience program in which we have to add certain features in the app
+Below images are the backend portions of the android application.
+Facebook and Pintrest API's are used along with the Clarifi AI.
 
 ## Screenshots
 
